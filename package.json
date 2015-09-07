@@ -1,9 +1,9 @@
 {
     "name": "raven",
     "title": "Raven",
-    "description": "Dark color scheme based on Dreamweavers Raven theme",
+    "description": "Dark color scheme based on Dreamweavers Raven theme. Multi-color support for different language modes.",
     "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "author": "Justin Truax (http://justintruax.com)",
     "license": "MIT",
     "theme": {
@@ -11,5 +11,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["dreamweaver", "raven", "dark", "theme", "flat", "highlighting"]
+    "keywords": ["dreamweaver", "raven", "dark", "theme", "flat", "highlighting", "color mode"]
 }
