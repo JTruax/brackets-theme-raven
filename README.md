@@ -1,6 +1,6 @@
 # Raven Theme for Brackets
 
-Dark color scheme based on Dreamweaver CC's Raven theme.
+Dark color scheme based on the Dreamweaver CC 2015 Raven theme.
 
 ## Installation
 * Open Brackets
@@ -10,16 +10,16 @@ Dark color scheme based on Dreamweaver CC's Raven theme.
 * Click "Install"
 
 ## HTML
-![HTML Screenshot](screenshots/html.png)
+![HTML Screenshot](screenshots/html.jpg)
 
 ## CSS
-![CSS Screenshot](screenshots/css.png)
+![CSS Screenshot](screenshots/css.jpg)
 
 ## JavaScript
-![JavaScript Screenshot](screenshots/js.png)
+![JavaScript Screenshot](screenshots/js.jpg)
 
 ## PHP
-![JavaScript Screenshot](screenshots/php.png)
+![JavaScript Screenshot](screenshots/php.jpg)
 
 ## Copyright and License
 Copyright (c) 2015 [JTruax](https://github.com/JTruax). Released under the [MIT License](LICENSE).
