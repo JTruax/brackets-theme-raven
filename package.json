@@ -1,9 +1,9 @@
 {
     "name": "raven",
     "title": "Raven",
-    "description": "Dark color scheme based on the Dreamweaver CC 2015 Raven theme.",
+    "description": "Dark color scheme based on Dreamweaver CC's Raven theme. Now with better preprocessor support.",
     "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "author": "Justin Truax (http://justintruax.com)",
     "license": "MIT",
     "theme": {
@@ -11,5 +11,5 @@
         "dark": true,
         "addModeClass": true
     },
-    "keywords": ["dreamweaver", "raven", "dark", "theme", "flat", "highlighting", "color mode"]
+    "keywords": ["dreamweaver", "raven", "dark", "theme", "flat", "highlighting", "preprocessor", "color mode"]
 }
